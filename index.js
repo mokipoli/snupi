@@ -1,7 +1,7 @@
 const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function () {
-    alert('Vamoooooooos!!!!')
+    alert('Vamooooos!\nTal vez no siempre estamos de acuerdo en toto y aveces te desespero, pero quiero que sepas, que siempre te quiero!')
 });
 
 const noBtn = document.querySelector('#noBtn');
