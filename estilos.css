@@ -11,7 +11,7 @@
 
 p{
     font-size: xx-large;
-    padding: 15%;
+    padding: 5%;
 }
 
 button{
@@ -30,4 +30,7 @@ button{
 img{
     width: 200px;
     height: 200px;
+    position: 0 0 0;
+    padding: auto;
+    margin: 10%;
 }
